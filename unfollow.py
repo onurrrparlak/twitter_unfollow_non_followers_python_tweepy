@@ -1,3 +1,5 @@
+//Tweepy v4.14.0
+//Only will work on the Developer Twitter Account
 import tweepy
 from cred import *
 
